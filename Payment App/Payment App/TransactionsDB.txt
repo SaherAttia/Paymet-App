@@ -1,0 +1,24 @@
+====================================================================
+Card Holder Name: saher attia farid attia
+PAN: 12345678901234567
+Expiry Date: 11/25
+Max Amount: 3000.000000
+Amount: 300.000000
+Transaction State: APPROVED
+Transaction Sequence Number: 1
+====================================================================
+Card Holder Name: andrew attia farid attia
+PAN: 8989374615436851
+Expiry Date: 10/26
+Max Amount: 3000.000000
+Amount: 1500.000000
+Transaction State: DECLINED_INSUFFECIENT_FUND
+Transaction Sequence Number: 2
+====================================================================
+Card Holder Name: saher attia farid attia
+PAN: 123456789012345678
+Expiry Date: 11/25
+Max Amount: 2000.000000
+Amount: 200.000000
+Transaction State: DECLINED_STOLEN_CARD
+Transaction Sequence Number: 3
